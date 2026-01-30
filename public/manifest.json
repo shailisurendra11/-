@@ -1,0 +1,22 @@
+{
+  "name": "जनसेवक Ward 26",
+  "short_name": "जनसेवक",
+  "description": "Official app for Ward 26 residents by BJP Corporator Aasawari Navare",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#FF6B00",
+  "icons": [
+    {
+      "src": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/f7cd043f-2f0b-4500-a548-677ae12f25de/BJP-logo-resized-1768839563341.webp?width=192&height=192&resize=contain",
+      "sizes": "192x192",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/render/image/public/project-uploads/f7cd043f-2f0b-4500-a548-677ae12f25de/BJP-logo-resized-1768839563341.webp?width=512&height=512&resize=contain",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
